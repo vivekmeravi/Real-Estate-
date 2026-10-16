@@ -1,0 +1,6 @@
+{
+  "name": "EstatePulse · WhatsApp High-Intent Lead Qualifier",
+  "description": "Real estate lead qualification and follow-up engine that filters high-converting prospects from WhatsApp Ads based on conversational engagement history, visit intent, and buyer readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
